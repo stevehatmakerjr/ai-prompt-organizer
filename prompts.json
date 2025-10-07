@@ -1,0 +1,21 @@
+[
+  {
+    "id": "demo-1",
+    "title": "Summarize a PDF",
+    "prompt": "Summarize this PDF in 5 bullets and a 2\u2011sentence TL;DR.",
+    "tags": [
+      "summarize",
+      "pdf",
+      "writing"
+    ]
+  },
+  {
+    "id": "demo-2",
+    "title": "Refactor Code",
+    "prompt": "Refactor the following function for readability and performance. Provide comments on tradeoffs.",
+    "tags": [
+      "code",
+      "refactor"
+    ]
+  }
+]
